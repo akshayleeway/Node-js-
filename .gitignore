@@ -1,0 +1,17 @@
+# Ignore specific files
+file.txt
+secret.txt
+
+# Ignore all files with .log extension
+*.log
+
+# Ignore all files in a specific directory
+my_folder/
+./node_modules
+
+# Ignore a nested directory and its contents
+nested_folder/
+
+# Ignore all .exe and .dll files
+*.exe
+*.dll
